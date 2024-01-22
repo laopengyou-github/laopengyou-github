@@ -6,7 +6,7 @@
     <br />
     <br />🍉 Take a look at my stats. 
     <br />
-    <br />🌱 If you want to know more about me, please visit my <a href="[https://www.cnblogs.com/wangyang0210/](https://blog.csdn.net/m0_58449549?spm=1001.2101.3001.5343)">blog</a>
+    <br />🌱 If you want to know more about me, please visit my <a href="https://blog.csdn.net/m0_58449549?type=blog">blog</a>
     <br />
   </samp>
 
